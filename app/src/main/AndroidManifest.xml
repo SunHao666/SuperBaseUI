@@ -22,6 +22,7 @@
         <activity android:name=".PopupWindowViewActivity" />
         <activity android:name=".DialogActivity" />
         <activity android:name=".ToolBarActivity" />
+        <activity android:name=".RecycleActivity" />
     </application>
 
 </manifest>

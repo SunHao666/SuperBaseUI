@@ -66,4 +66,8 @@ class MainActivity : Activity() {
     fun toolBarEX(view: View) {
         startActivity(Intent(this,ToolBarActivity::class.java))
     }
+
+    fun toRecycle(view: View) {
+        startActivity(Intent(this,RecycleActivity::class.java))
+    }
 }
