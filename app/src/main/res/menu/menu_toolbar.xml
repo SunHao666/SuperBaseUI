@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/m1"
+        android:title="m1"
+        app:showAsAction="always"/>
+    <item android:id="@+id/m2"
+        android:title="m2"
+        app:showAsAction="withText"/>
+    <item android:id="@+id/m3"
+        android:title="m3"
+        app:showAsAction="withText"/>
+    <item android:id="@+id/m4"
+        android:title="m4"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/m5"
+        android:title="m5"
+        app:showAsAction="ifRoom"/>
+</menu>
