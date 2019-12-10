@@ -23,6 +23,7 @@
         <activity android:name=".DialogActivity" />
         <activity android:name=".ToolBarActivity" />
         <activity android:name=".RecycleActivity" />
+        <activity android:name=".RecyclerViewEX" />
     </application>
 
 </manifest>
